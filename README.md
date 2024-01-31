@@ -1,2 +1,6 @@
-# Address-Book
-This Project is about ,how  to Create an Address Booklist using C++.An Address  booklist consists of peoples names, address, contact number etc...
+# c.cpp.address.book.project
+C/C++ Address Book Project
+
+Address book projects for ICS 212 Program structure.
+
+Instructions for compilation and running found in each folder
